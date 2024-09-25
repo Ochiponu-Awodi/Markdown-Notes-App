@@ -1,1 +1,1 @@
-This project was done under the tutelage of Scrimba's head of education, Bob Ziroll
+This project was done under the tutelage of Scrimba's head of education, Bob Ziroll.
